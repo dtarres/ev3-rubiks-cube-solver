@@ -20,6 +20,7 @@ The following configuration was applied:
  - MotorB, codenamed base, is the motor that moves the base.
  - MotorC, codenamed agafa, is the motor at the LEFT of the EV3, watching it frontally. It is the one that holds the cube.
  - MotorD, codenamed cop, is the motor at the RIGHT of the EV3, watching it frontally. It is the one that pushes the cube.
+
 ####Sensors:
  - Sensor1, codenamed tocsensor, is the touch sensor next to the motor that moves the color sensor.
  - Sensor2, codenamed barreja, is the touch sensor at the RIGHT of the EV3, watching it frontally.
