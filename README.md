@@ -15,13 +15,13 @@ In order to program the robot, a software called ROBOTC was used, which provides
 A demonstration of the process is provided using the [following link](https://www.youtube.com/watch?v=P05Q6jSf34c).
 
 The following configuration was applied:
-####Motors:
+#### Motors:
  - MotorA, codenamed sensor, is the motor that moves the color sensor.
  - MotorB, codenamed base, is the motor that moves the base.
  - MotorC, codenamed agafa, is the motor at the LEFT of the EV3, watching it frontally. It is the one that holds the cube.
  - MotorD, codenamed cop, is the motor at the RIGHT of the EV3, watching it frontally. It is the one that pushes the cube.
 
-####Sensors:
+#### Sensors:
  - Sensor1, codenamed tocsensor, is the touch sensor next to the motor that moves the color sensor.
  - Sensor2, codenamed barreja, is the touch sensor at the RIGHT of the EV3, watching it frontally.
  - Sensor3, codenamed apretar, is the touch sensor at the LEFT of the EV3, watching it frontally.
